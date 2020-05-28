@@ -81,8 +81,9 @@ public class MainActivity extends AppCompatActivity {
             q4IsCorrect=false;
             score-=5;
         }
+        // if cb5 is checked, it is not considered as correct answer
         CheckBox cb5 = findViewById(R.id.str5);
-        if(!cb5.isChecked()){
+        if(cb5.isChecked()){
             q4IsCorrect=false;
             score-=5;
         }
