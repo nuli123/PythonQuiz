@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PythonQuiz</string>
+
+    <string name="question1">1. Which method in random package can be to randomize a list in place?</string>
+    <string name="question2">2. In Python 3, what is the type of type(range(5))?</string>
+    <string name="question3">3. I/O-Bound programs spend a lot of time doing computations.</string>
+    <string name="question4">4. Select all the valid String creation in Python.</string>
+
+    <string name="answer1">Your Answer:</string>
+
+    <string name="_int">int</string>
+    <string name="list">list</string>
+    <string name="range">range</string>
+
+    <string name="_true">True</string>
+    <string name="_false">False</string>
+
+    <string name="str1">s=\"str1\"</string>
+    <string name="str2">s=\'str1\'</string>
+    <string name="str3">s=\"\"\"str1\"\"\"</string>
+    <string name="str4">s=str(\"str1\")</string>
+    <string name="str5">s=\"str1\'</string>
+</resources>
